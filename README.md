@@ -24,11 +24,11 @@ A sleek, Discord-inspired styled password generator web application built with H
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/discord-style-password-generator.git
+   git clone https://github.com/jvalenteros/passgen-web.git
    ```
 2. Navigate to the project directory:
    ```
-   cd discord-style-password-generator
+   cd passgen-web
    ```
 3. Open `index.html` in your web browser.
 
