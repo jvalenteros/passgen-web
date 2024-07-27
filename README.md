@@ -1,5 +1,11 @@
 # passgen-web by jvalenteros
 
+![GitHub last commit](https://img.shields.io/github/last-commit/jvalenteros/passgen-web)
+![GitHub license](https://img.shields.io/github/license/jvalenteros/passgen-web)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
 A sleek, Discord-inspired styled password generator web application built with HTML, Tailwind CSS, and JavaScript.
 
 ## Features
